@@ -1,0 +1,9 @@
+/Users/armandobibayjr/Projects/SampleAPIProject/SampleAPIProject.Common/bin/Debug/netcoreapp3.1/SampleAPIProject.Common.deps.json
+/Users/armandobibayjr/Projects/SampleAPIProject/SampleAPIProject.Common/bin/Debug/netcoreapp3.1/SampleAPIProject.Common.dll
+/Users/armandobibayjr/Projects/SampleAPIProject/SampleAPIProject.Common/bin/Debug/netcoreapp3.1/SampleAPIProject.Common.pdb
+/Users/armandobibayjr/Projects/SampleAPIProject/SampleAPIProject.Common/obj/Debug/netcoreapp3.1/SampleAPIProject.Common.csprojAssemblyReference.cache
+/Users/armandobibayjr/Projects/SampleAPIProject/SampleAPIProject.Common/obj/Debug/netcoreapp3.1/SampleAPIProject.Common.AssemblyInfoInputs.cache
+/Users/armandobibayjr/Projects/SampleAPIProject/SampleAPIProject.Common/obj/Debug/netcoreapp3.1/SampleAPIProject.Common.AssemblyInfo.cs
+/Users/armandobibayjr/Projects/SampleAPIProject/SampleAPIProject.Common/obj/Debug/netcoreapp3.1/SampleAPIProject.Common.csproj.CoreCompileInputs.cache
+/Users/armandobibayjr/Projects/SampleAPIProject/SampleAPIProject.Common/obj/Debug/netcoreapp3.1/SampleAPIProject.Common.dll
+/Users/armandobibayjr/Projects/SampleAPIProject/SampleAPIProject.Common/obj/Debug/netcoreapp3.1/SampleAPIProject.Common.pdb

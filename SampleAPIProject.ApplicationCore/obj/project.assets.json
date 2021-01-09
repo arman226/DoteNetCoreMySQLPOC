@@ -5612,7 +5612,7 @@
       "outputPath": "/Users/armandobibayjr/Projects/SampleAPIProject/SampleAPIProject.ApplicationCore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/armandobibayjr/.nuget/NuGet/NuGet.Config"
+        "/Users/armandobibayjr/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
